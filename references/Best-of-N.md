@@ -1,7 +1,12 @@
-## Best-of-N (BoN) Jailbreaking is a black-box algorithm that bypasses AI model safeguards by repeatedly sampling augmented prompt variations—such as random capitalization or shuffling—until a harmful response is elicited, exploiting the model's sensitivity to input variations.
-### This method jailbreaks text, video and audio AI models!
-Reference article https://arxiv.org/html/2412.03556v1
-Reference video https://www.youtube.com/watch?v=LGHaMcP_flA
+## Best-of-N (BoN) Jailbreaking
 
-## Pipeline visualized (source: article)
-![image](https://arxiv.org/html/2412.03556v1/x1.png)
+BoN is a black-box method that bypasses AI model safeguards by repeatedly modifying prompts—through random capitalization, word shuffling, etc.—until a harmful output is generated. It exploits the model's sensitivity to input variations.
+
+### Works on text, video, and audio models.
+
+- [Reference article](https://arxiv.org/html/2412.03556v1)  
+- [Reference video](https://www.youtube.com/watch?v=LGHaMcP_flA)
+
+## Pipeline (from the article)
+
+![BoN Pipeline](https://arxiv.org/html/2412.03556v1/x1.png)
