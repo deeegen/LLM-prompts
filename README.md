@@ -1,51 +1,51 @@
-# 🧠 LLM Prompts Collection
+# 🧠 LLM Jailbreaks & Prompt Hacks Collection
 
-## 📘 Overview
-Welcome to the **LLM Prompts** repository—a curated library of templates, techniques, and examples designed to help you get more consistent and effective results from Large Language Models (LLMs).  
+## 📘 What’s This About?  
+Welcome! This repo is your go-to spot for prompt jailbreaks, prompt hacks, and creative techniques designed to push Large Language Models (LLMs) beyond their usual limits. Instead of just straightforward prompts, here you'll find ways people have engineered inputs to bypass restrictions, unlock hidden behaviors, or steer LLMs in unexpected directions.
 
-Prompt engineering—the art of crafting inputs to guide model behavior—is the foundation of this collection. LLMs are neural network-based systems trained on massive text datasets to generate human-like responses.
-
----
-
-## 🗂️ Repository Structure
-
-- **`my prompts/`**  
-  Personalized prompts for specific tasks, workflows, or experiments.  
-
-- **`others/`**  
-  A collection of prompts gathered from public sources like blogs, academic papers, and community contributions.  
-
+Prompt jailbreaks are all about crafting instructions that let you “break out” of normal constraints and explore what these models can really do — whether it’s creative problem-solving, exploring taboo topics, or generating unique outputs that standard prompts won’t allow.
 
 ---
 
-## ⚠️ Disclaimer
+## 🗂️ How This Repo is Organized  
 
-- **Authorship**: Some prompts originate from third-party creators. Original rights are retained by those authors.  
-- **Purpose**: This repository is intended for educational and archival use only. Ensure compliance with any relevant licenses before using or adapting prompts.
+- **`my jailbreaks/`**  
+  My personal collection of tested jailbreak prompts, including detailed setups and tweaks that I’ve found effective.  
 
----
-
-## 🚀 Getting Started
-
-1. **Explore** the folders for prompts aligned with your goals.  
-2. **Modify** variables, examples, or instruction phrasing to fit your needs.  
-3. **Test** the prompt using your preferred LLM tool or API.  
-4. **Refine** based on the quality of outputs and task requirements.
+- **`community hacks/`**  
+  A grab-bag of jailbreak prompts and techniques from forums, blogs, research papers, and other users pushing the boundaries.
 
 ---
 
-## 🤝 Contributing
+## ⚠️ Heads Up
 
-- ✅ **Pull Requests Welcome**  
-- 📂 Add new prompts to the appropriate folder with a clear filename.  
-- 📝 Include a short description and attribution when applicable.  
-- 📋 Follow the existing format and naming conventions for consistency.
+- **Who Made These?** Some jailbreak prompts come from others, so respect original authorship.  
+- **Why Use This?** This is for learning and experimenting only. Always consider any usage guidelines or terms of service where applicable.
 
 ---
 
-## 🪪 License
+## 🚀 How to Dive In
 
-The repository itself is open for modification, sharing, and forking.  
-⚠️ **Note**: Individual prompts may have separate licenses—review and respect them before use.
+1. **Browse** the folders to find jailbreaks or hacks that catch your eye.  
+2. **Tweak** prompts to match your own setup or goals—small changes can make a big difference.  
+3. **Run** them through your favorite LLM tool or API and observe how the model behaves.  
+4. **Iterate** by adjusting phrasing, context, or instructions to refine results or break new ground.
 
 ---
+
+## 🤝 Want to Contribute?
+
+- Pull requests are very welcome!  
+- Add your jailbreaks or prompt hacks with clear names and a short explanation.  
+- Give credit to original creators when possible.  
+- Keep the format consistent so everyone can follow along easily.
+
+---
+
+## 🪪 License Info  
+
+This repo encourages sharing and remixing, but remember some individual jailbreaks might have their own licenses—please check before using.
+
+---
+
+If you want it even more casual or technical, just say the word!
